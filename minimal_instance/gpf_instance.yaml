@@ -1,0 +1,31 @@
+# The id of the instance.
+instance_id: minimal_instance
+
+# The reference genome to use for this instance.
+reference_genome:
+    resource_id: "hg38/genomes/GRCh38-hg38"
+
+# The gene models to use for this instance.
+gene_models:
+    resource_id: "hg38/gene_models/refSeq_v20200330"
+
+# The directory in which to store derivative data - i.e. data
+# that is calculated by the instance.
+cache_path: cache
+
+# The directory in which to store images produced from phenotype data.
+phenotype_images: pheno_images
+
+# Configuration for phenotype data storage.
+phenotype_storage:
+  # The default storage to use when importing phenotype data.
+  default: storage1
+  # A list of all configured storages.
+  storages:
+    - id: storage1  # The ID of the storage.
+      base_dir: pheno_storage_1_dir  # The directory of the storage. This is where phenotype data will be copied to during import.
+
+# The directory containing configurations for phenotype studies available to the instance.
+# No raw phenotype data is stored in this directory.
+phenotype_data:
+  dir: pheno

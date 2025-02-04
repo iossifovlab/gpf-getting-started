@@ -1,0 +1,6 @@
+*.flag
+work
+.task-log
+minimal_instance/cache
+minimal_instance/pheno
+minimal_instance/pheno_storage_1_dir
