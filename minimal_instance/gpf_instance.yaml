@@ -9,6 +9,10 @@ reference_genome:
 gene_models:
     resource_id: "hg38/gene_models/refSeq_v20200330"
 
+# The annotation pipeline configuration to use. Uncomment to enable.
+# annotation:
+#   conf_file: annotation.yaml
+
 # The directory in which to store derivative data - i.e. data
 # that is calculated by the instance.
 cache_path: cache
