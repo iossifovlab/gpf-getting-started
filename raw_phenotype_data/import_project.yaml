@@ -24,8 +24,5 @@ study_config:
       jitter: 0.1
       display_name: "Regression one"
 
-gpf_instance:
-  path: ../minimal_instance/gpf_instance.yaml
-
 destination:
   storage_id: storage1
