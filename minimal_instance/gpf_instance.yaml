@@ -12,24 +12,3 @@ gene_models:
 # The annotation pipeline configuration to use. Uncomment to enable.
 # annotation:
 #   conf_file: annotation.yaml
-
-# The directory in which to store derivative data - i.e. data
-# that is calculated by the instance.
-cache_path: cache
-
-# The directory in which to store images produced from phenotype data.
-phenotype_images: pheno_images
-
-# Configuration for phenotype data storage.
-phenotype_storage:
-  # The default storage to use when importing phenotype data.
-  default: storage1
-  # A list of all configured storages.
-  storages:
-    - id: storage1  # The ID of the storage.
-      base_dir: pheno_storage_1_dir  # The directory of the storage. This is where phenotype data will be copied to during import.
-
-# The directory containing configurations for phenotype studies available to the instance.
-# No raw phenotype data is stored in this directory.
-phenotype_data:
-  dir: pheno
