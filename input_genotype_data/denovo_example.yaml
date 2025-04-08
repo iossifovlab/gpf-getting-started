@@ -1,12 +1,12 @@
-id: denovo_helloworld
+id: denovo_example
 
 input:
   pedigree:
-    file: helloworld.ped
+    file: example.ped
 
   denovo:
     files:
-      - helloworld.tsv
+      - example.tsv
     person_id: person_ids
     chrom: CHROM
     pos: POS

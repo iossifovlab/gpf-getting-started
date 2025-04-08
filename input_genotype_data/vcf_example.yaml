@@ -1,0 +1,9 @@
+id: vcf_example
+
+input:
+  pedigree:
+    file: example.ped
+
+  vcf:
+    files:
+      - example.vcf
