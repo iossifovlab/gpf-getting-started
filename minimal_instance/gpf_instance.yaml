@@ -11,4 +11,6 @@ gene_models:
 
 # The annotation pipeline configuration to use. Uncomment to enable.
 # annotation:
-#   conf_file: annotation.yaml
+#   config:
+#     - allele_score: hg38/variant_frequencies/gnomAD_4.1.0/genomes/ALL
+#     - allele_score: hg38/scores/ClinVar_20240730
