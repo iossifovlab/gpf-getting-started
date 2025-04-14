@@ -10,3 +10,4 @@ minimal_instance/wdae
 input_genotype_data/denovo_example
 minimal_instance/internal_storage
 minimal_instance/studies
+input_genotype_data/vcf_example
