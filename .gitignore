@@ -7,3 +7,6 @@ minimal_instance/pheno_storage_1_dir
 minimal_instance/about_description.md
 minimal_instance/main_description.md
 minimal_instance/wdae
+input_genotype_data/denovo_example
+minimal_instance/internal_storage
+minimal_instance/studies
