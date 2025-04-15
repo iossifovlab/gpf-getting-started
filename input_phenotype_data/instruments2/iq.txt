@@ -1,0 +1,13 @@
+personId	verbal_iq	non_verbal_iq	diagnosis_notes
+f1.p1	60	45	"walked late, severe seizures"
+f1.s1	98	102	
+f2.p1	98	70	originally diagnosed as Asperger
+f2.s1	115	83	
+f3.p1	90	80	
+f3.s1	97	90	
+f4.p1	108	93	excels at school
+f4.s1	107	91	
+f5.p1	90	70	sleep abnormality
+f5.s1	105	115	
+f6.p1	85	92	
+f6.s1	95	101	

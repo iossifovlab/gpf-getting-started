@@ -1,7 +1,7 @@
 instrumentName	measureName	description
-instrument_1	measure_1	The first measure of the first instrument
-instrument_1	measure_2	The second measure of the first instrument
-instrument_1	measure_3	The third measure of the first instrument
-instrument_1	measure_6	The fourth measure of the first instrument
-instrument_2	measure_4	The first measure of the second instrument
-instrument_2	measure_5	The second measure of the second instrument
+basic_medical	age	The individual's age in years
+basic_medical	weight	The individual's weight in punds
+basic_medical	height	The individual's height in centimeters
+basic_medical	race	The individual's race
+iq	verbal_iq	Verbal IQ
+iq	non_verbal_iq	Non verbal IQ

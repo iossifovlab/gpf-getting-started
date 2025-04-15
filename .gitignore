@@ -1,6 +1,7 @@
 *.flag
 work
 .task-log
+.DS_Store
 minimal_instance/cache
 minimal_instance/pheno
 minimal_instance/pheno_storage_1_dir

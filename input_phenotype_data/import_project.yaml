@@ -1,8 +1,8 @@
 id: mini_pheno
 
 instrument_files:
-  - instruments/instrument_1.csv
-  - path: instruments/instrument_2.csv
+  - instruments2/basic_medical.csv
+  - path: instruments2/iq.txt
     delimiter: "\t"
 
 data_dictionary:
@@ -18,8 +18,8 @@ work_dir: work
 study_config:
   regressions:
     reg_1:
+      display_name: "Age regression"
       measure_names:
-        - measure_1
-      instrument_name: instrument_1
+        - age
+      instrument_name: basic_medical
       jitter: 0.1
-      display_name: "Regression one"

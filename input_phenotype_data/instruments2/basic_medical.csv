@@ -1,0 +1,25 @@
+personId,age,weight,height,race
+f1.dad,50,200,180,white
+f1.mom,23,160,170,white
+f1.s1,2,20,79,white
+f1.p1,4,40,80,white
+f2.dad,32,230,170,white
+f2.mom,30,153,165,white
+f2.s1,12,80,130,white
+f2.p1,3,30,70,white
+f3.dad,45,175,165,white
+f3.mom,41,173,154,white
+f3.s1,23,170,180,white
+f3.p1,7,80,120,white
+f4.dad,25,190,185,white
+f4.mom,35,200,150,white
+f4.s1,17,160,165,white
+f4.p1,5,50,100,white
+f5.dad,31,250,176,asian
+f5.mom,39,180,154,asian
+f5.s1,11,130,150,asian
+f5.p1,5,55,100,asian
+f6.dad,30,200,173,affrican american
+f6.mom,27,140,178,affrican american
+f6.s1,1,15,30,affrican american
+f6.p1,8,80,130,affrican american
