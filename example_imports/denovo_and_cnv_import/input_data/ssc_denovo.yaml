@@ -1,0 +1,9 @@
+id: ssc_denovo
+
+input:
+  pedigree:
+    file: ssc_denovo.ped
+
+  denovo:
+    files:
+    - ssc_denovo.tsv
