@@ -1,4 +1,4 @@
-CHROM	POS	REF	ALT	person_ids
+chrom	pos	ref	alt	person_id
 chr14	21403214	T	C	f1.p1
 chr14	21431459	G	C	f1.p1
 chr14	21391016	A	AT	f2.p1
