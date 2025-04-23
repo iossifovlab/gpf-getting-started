@@ -7,3 +7,6 @@ input:
   denovo:
     files:
     - ssc_denovo.tsv
+
+processing_config:
+  denovo: chromosome
