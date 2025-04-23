@@ -1,0 +1,15 @@
+id: ssc_cnv
+
+input:
+  pedigree:
+    file: ssc_denovo.ped
+
+  cnv:
+    files:
+    - ssc_cnv.tsv
+
+    location: location
+    variant_type: variant
+    plus_values: duplication
+    minus_values: deletion
+    person_id: person_id
