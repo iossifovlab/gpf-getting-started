@@ -22,3 +22,39 @@ study_config:
         - age
       instrument_name: basic_medical
       jitter: 0.1
+
+  common_report:
+    enabled: True
+    file_path: "common_report.json"
+    draw_all_families: False
+    selected_person_set_collections:
+      family_report: 
+        - "status"
+
+  person_set_collections:
+    selected_person_set_collections:
+      - "status"
+    status:
+      id: "status"
+      name: "Affected Status"
+      sources:
+        - from: "pedigree"
+          source: "status"
+      domain:
+        - id: "affected"
+          name: "affected"
+          values:
+            - "affected"
+          color: "#e35252"
+        - id: "unaffected"
+          name: "unaffected"
+          values:
+            - "unaffected"
+          color: "#ffffff"
+      default:
+        id: "unspecified"
+        name: "unspecified"
+        color: "#aaaaaa"
+      sources:
+        - from: "pedigree"
+          source: "status"
