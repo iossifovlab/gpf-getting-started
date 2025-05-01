@@ -1,6 +1,6 @@
 instrumentName	measureName	description
 basic_medical	age	The individual's age in years
-basic_medical	weight	The individual's weight in punds
+basic_medical	weight	The individual's weight in pounds
 basic_medical	height	The individual's height in centimeters
 basic_medical	race	The individual's race
 iq	verbal_iq	Verbal IQ
