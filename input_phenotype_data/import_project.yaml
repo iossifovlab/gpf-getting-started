@@ -12,13 +12,11 @@ pedigree: pedigree.ped
 
 person_column: personId
 
-work_dir: work
-
 study_config:
   regressions:
     reg_1:
-      display_name: "Age regression"
+      display_name: "Age"
+      instrument_name: basic_medical
       measure_names:
         - age
-      instrument_name: basic_medical
       jitter: 0.1
