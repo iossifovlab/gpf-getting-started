@@ -1,25 +1,25 @@
 familyId	personId	dadId	momId	sex	status	role
-f1	f1.dad	0	0	M	unaffected	dad
-f1	f1.mom	0	0	F	unaffected	mom
+f1	f1.dad			M	unaffected	dad
+f1	f1.mom			F	unaffected	mom
 f1	f1.p1	f1.dad	f1.mom	M	affected	prb
 f1	f1.s1	f1.dad	f1.mom	F	unaffected	sib
-f2	f2.mom	0	0	F	unaffected	mom
-f2	f2.dad	0	0	M	unaffected	dad
+f2	f2.mom			F	unaffected	mom
+f2	f2.dad			M	unaffected	dad
 f2	f2.p1	f2.dad	f2.mom	F	affected	prb
 f2	f2.s1	f2.dad	f2.mom	M	unaffected	sib
-f3	f3.dad	0	0	M	unaffected	dad
-f3	f3.mom	0	0	F	unaffected	mom
+f3	f3.dad			M	unaffected	dad
+f3	f3.mom			F	unaffected	mom
 f3	f3.p1	f3.dad	f3.mom	M	affected	prb
 f3	f3.s1	f3.dad	f3.mom	F	unaffected	sib
-f4	f4.dad	0	0	M	unaffected	dad
-f4	f4.mom	0	0	F	unaffected	mom
+f4	f4.dad			M	unaffected	dad
+f4	f4.mom			F	unaffected	mom
 f4	f4.p1	f4.dad	f4.mom	F	affected	prb
 f4	f4.s1	f4.dad	f4.mom	M	unaffected	sib
-f5	f5.dad	0	0	M	unaffected	dad
-f5	f5.mom	0	0	F	unaffected	mom
+f5	f5.dad			M	unaffected	dad
+f5	f5.mom			F	unaffected	mom
 f5	f5.p1	f5.dad	f5.mom	M	affected	prb
 f5	f5.s1	f5.dad	f5.mom	F	unaffected	sib
-f6	f6.dad	0	0	M	unaffected	dad
-f6	f6.mom	0	0	F	unaffected	mom
+f6	f6.dad			M	unaffected	dad
+f6	f6.mom			F	unaffected	mom
 f6	f6.p1	f6.dad	f6.mom	F	affected	prb
 f6	f6.s1	f6.dad	f6.mom	M	unaffected	sib

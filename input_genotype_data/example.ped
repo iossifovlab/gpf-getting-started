@@ -1,8 +1,8 @@
 familyId	personId	dadId	momId	sex	status
-f1	f1.dad	0	0	M	unaffected
-f1	f1.mom	0	0	F	unaffected
+f1	f1.dad			M	unaffected
+f1	f1.mom			F	unaffected
 f1	f1.p1	f1.dad	f1.mom	M	affected
 f1	f1.s1	f1.dad	f1.mom	F	unaffected
-f2	f2.mom	0	0	F	unaffected
-f2	f2.dad	0	0	M	unaffected
+f2	f2.mom			F	unaffected
+f2	f2.dad			M	unaffected
 f2	f2.p1	f2.dad	f2.mom	F	affected
