@@ -14,3 +14,4 @@ minimal_instance/studies
 input_genotype_data/vcf_example
 minimal_instance/datasets
 input_phenotype_data/mini_pheno
+minimal_instance/gpf_instance.yaml
