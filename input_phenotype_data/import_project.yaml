@@ -8,6 +8,10 @@ data_dictionary:
   files:
     - path: measure_descriptions.tsv
 
+instrument_dictionary:
+  files:
+    - path: instrument_descriptions.tsv
+
 pedigree: pedigree.ped
 
 person_column: personId
