@@ -1,0 +1,8 @@
+id: ssc_pheno
+
+instrument_files:
+  - proband_measures.csv
+
+pedigree: ssc_pheno.ped
+
+person_column: individual
